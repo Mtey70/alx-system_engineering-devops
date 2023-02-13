@@ -7,4 +7,5 @@ count number of directories and sub directories
 display the 10 newest files in the current directory
  list of words as input and prints only words that appear exactly once 
 Display lines containing the pattern “root” from the file
-Display the number of lines that contain the pattern “bin”       
+Display the number of lines that contain the pattern “bin”
+Display lines containing the pattern “root” and 3 lines after them        
