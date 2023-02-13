@@ -1,2 +1,2 @@
 #!/bin/bash
-display third line 
+create file 
