@@ -1,2 +1,2 @@
 #!/bin/bash
-display last lines
+display third line 
