@@ -2,4 +2,5 @@
 create fil
 save current state of directory
 Duplicate last line
-No more javascript   
+No more javascript
+count number of directories and sub directories    
