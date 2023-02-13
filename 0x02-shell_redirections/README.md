@@ -1,2 +1,3 @@
 #!/bin/bash
-create file 
+create fil
+save current state of directory 
