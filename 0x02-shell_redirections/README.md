@@ -9,4 +9,5 @@ display the 10 newest files in the current directory
 Display lines containing the pattern “root” from the file
 Display the number of lines that contain the pattern “bin”
 Display lines containing the pattern “root” and 3 lines after them
-Display all the lines in the file /etc/passwd that do not contain the pattern “bin”         
+Display all the lines in the file /etc/passwd that do not contain the pattern “bin
+Letters only please          
