@@ -19,4 +19,5 @@ Write a command that finds all empty files and directories in the current direct
 Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
  Acrostic
 The biggest fan
-Write a script that displays a confused smiley                   
+Write a script that displays a confused smiley
+Display the content of /etc/passwd and /etc/hostsDisplay the content of /etc/passwd and /etc/hosts                    
