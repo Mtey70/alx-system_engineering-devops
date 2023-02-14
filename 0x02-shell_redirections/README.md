@@ -21,4 +21,5 @@ Write a script that lists all the files with a .gif extension in the current dir
 The biggest fan
 Write a script that displays a confused smiley
 Display the content of /etc/passwd and /etc/hostsDisplay the content of /etc/passwd and /etc/hosts
-Display the last 10 lines of /etc/passwd                     
+Display the last 10 lines of /etc/passwd
+Write a script that displays the third line of the file                      
