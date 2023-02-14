@@ -20,4 +20,5 @@ Write a script that lists all the files with a .gif extension in the current dir
  Acrostic
 The biggest fan
 Write a script that displays a confused smiley
-Display the content of /etc/passwd and /etc/hostsDisplay the content of /etc/passwd and /etc/hosts                    
+Display the content of /etc/passwd and /etc/hostsDisplay the content of /etc/passwd and /etc/hosts
+Display the last 10 lines of /etc/passwd                     
