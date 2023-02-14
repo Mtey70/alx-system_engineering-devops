@@ -23,4 +23,6 @@ Write a script that displays a confused smiley
 Display the content of /etc/passwd and /etc/hostsDisplay the content of /etc/passwd and /etc/hosts
 Display the last 10 lines of /etc/passwd
 Write a script that displays the third line of the file
-Write a shell script that creates a file named exactly                       
+Write a shell script that creates a file named exactly
+Write a script that counts the number of directories and sub-directories in the current directory
+Create a script that takes a list of words as input and prints only words that appear exactly once.                         
